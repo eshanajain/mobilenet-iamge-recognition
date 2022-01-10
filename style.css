@@ -1,0 +1,49 @@
+  .heading
+  {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    height: 180px;
+    box-shadow:5px 5px 5px lightpink;
+  }
+  .heading_div
+  {
+    float: none;
+    background:lightsalmon;
+    padding: 10px; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px lightseagreen;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px lightskyblue;
+    font-size: 20px;
+    background-color:mediumslateblue;
+  }
+ 
+  .copy_right_footer{
+    position:fixed;
+    color:mediumaquamarine;
+    bottom: 0;
+    width: 100%;
+    background-color: mediumblue;
+    line-height: 2.5;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  canvas
+  {
+    border: 5px solid mediumorchid;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px mediumpurple;
+    margin-top: 160px;
+  }
